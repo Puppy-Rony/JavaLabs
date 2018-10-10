@@ -48,8 +48,9 @@ public class pol {
 }
 ```
 Задание 3: объеденить две программы одним
-import java.util.Scanner;
 ```jsx
+import java.util.Scanner;
+
 public class Main{
 	public static void main(String[] args) {
 		System.out.println("Enter number to choose action ");// просим пользователя ввести число, для выбора действия
