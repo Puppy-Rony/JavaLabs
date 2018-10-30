@@ -1,2 +1,2 @@
 # JavaLabs
-Labs for MTUCi
+Proskurin N
